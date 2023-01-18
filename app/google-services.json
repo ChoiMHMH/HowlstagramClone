@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104851313023",
+    "project_id": "howlstagramclone",
+    "storage_bucket": "howlstagramclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104851313023:android:2bc2c7dc7b5056ce130a4a",
+        "android_client_info": {
+          "package_name": "com.example.howlstagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104851313023-lpcbr3bdei85ug25elqrfe9kpl98751j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRDSVydPRPHqZltUyQAE8t0k1G7L-AF9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104851313023-lpcbr3bdei85ug25elqrfe9kpl98751j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -21,6 +21,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
         <EditText
+            android:id="@+id/email_edittext"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/email"/>
@@ -31,6 +32,7 @@
             android:layout_height="wrap_content"
             app:passwordToggleEnabled="true">
         <EditText
+            android:id="@+id/password_edittext"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="textPassword"
@@ -39,6 +41,7 @@
 
         <!--아래 Button 에 theme="style/ButtonStyle" 오류로 뺌-->
         <Button
+            android:id="@+id/email_login_button"
             android:text="@string/signin_email"
             android:layout_width="match_parent"
             android:layout_height="40dp"
